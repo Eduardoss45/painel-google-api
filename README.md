@@ -74,3 +74,4 @@ Este projeto é uma aplicação Node.js que realiza autenticação com a conta d
 ## 📝 Licença
 
 Este projeto é de uso privado e foi desenvolvido para fins de estudo ou integração interna. Entre em contato para outras permissões.
+
