@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Ambiente
+.env
+
+# Dados sensíveis (tokens, credenciais etc.)
+data/
